@@ -1,1 +1,0 @@
-heroku buildpacks:set git@github.com:Vastitudo/pgbot.git #Python3.6
