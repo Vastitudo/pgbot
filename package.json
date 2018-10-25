@@ -1,3 +1,0 @@
-heroku buildpacks:set heroku/python
-Buildpack set. Next release on random-app-1234 will use heroku/python.
-Run `git push heroku master` to create a new release using this buildpack.
